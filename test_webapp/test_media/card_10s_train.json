@@ -1,0 +1,7 @@
+[
+    { "mills" : 1000, "expected": "type1" },
+    { "mills" : 3000, "expected": "type4" },
+    { "mills" : 5000, "expected": "type7" },
+    { "mills" : 8000, "expected": "type8" },
+    { "mills" : 10000, "expected": "noise3" }
+]
